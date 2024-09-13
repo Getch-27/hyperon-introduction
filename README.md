@@ -49,3 +49,5 @@ OpenCog Hyperon’s architecture includes creative and generative processes such
 
 One of the strengths of OpenCog Hyperon is its hybrid approach, which merges symbolic reasoning with subsymbolic methods like neural networks. This enables the system to handle tasks that require high-level abstract thinking alongside tasks that rely on sensory input or pattern recognition.
 
+**source : https://arxiv.org/pdf/2310.18318
+
